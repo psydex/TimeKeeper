@@ -1,0 +1,26 @@
+# --table-start--
+dataClass=com.apps.timekeeper.db.entity.Job
+tableName=job
+# --table-fields-start--
+# --field-start--
+fieldName=id
+generatedId=true
+# --field-end--
+# --field-start--
+fieldName=clientName
+# --field-end--
+# --field-start--
+fieldName=jobName
+# --field-end--
+# --field-start--
+fieldName=startTime
+# --field-end--
+# --field-start--
+fieldName=stopTime
+# --field-end--
+# --field-start--
+fieldName=timeWorked
+# --field-end--
+# --table-fields-end--
+# --table-end--
+#################################

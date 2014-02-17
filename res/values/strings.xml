@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">TimeKeeper</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_show_jobs">Show Jobs</string>
+    <string name="title_activity_add_job">Add Job</string>
+    <string name="action_delete_job">Delete Job</string>
+    <string name="label_client_name">Client Name</string>
+    <string name="label_job_name">Job Name</string>
+    <string name="label_add_job">Add Job</string>
+
+</resources>
